@@ -1,0 +1,8 @@
+D:\Mphasis\Live Session\SimpliLearn Projects\Phase 1 Final Project\Storing and Updating Teacher Records\ConAppStoreUpdateInTextFile\ConAppStoreUpdateInTextFile\bin\Debug\ConAppStoreUpdateInTextFile.exe.config
+D:\Mphasis\Live Session\SimpliLearn Projects\Phase 1 Final Project\Storing and Updating Teacher Records\ConAppStoreUpdateInTextFile\ConAppStoreUpdateInTextFile\bin\Debug\ConAppStoreUpdateInTextFile.exe
+D:\Mphasis\Live Session\SimpliLearn Projects\Phase 1 Final Project\Storing and Updating Teacher Records\ConAppStoreUpdateInTextFile\ConAppStoreUpdateInTextFile\bin\Debug\ConAppStoreUpdateInTextFile.pdb
+D:\Mphasis\Live Session\SimpliLearn Projects\Phase 1 Final Project\Storing and Updating Teacher Records\ConAppStoreUpdateInTextFile\ConAppStoreUpdateInTextFile\obj\Debug\ConAppStoreUpdateInTextFile.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\SimpliLearn Projects\Phase 1 Final Project\Storing and Updating Teacher Records\ConAppStoreUpdateInTextFile\ConAppStoreUpdateInTextFile\obj\Debug\ConAppStoreUpdateInTextFile.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Live Session\SimpliLearn Projects\Phase 1 Final Project\Storing and Updating Teacher Records\ConAppStoreUpdateInTextFile\ConAppStoreUpdateInTextFile\obj\Debug\ConAppStoreUpdateInTextFile.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\SimpliLearn Projects\Phase 1 Final Project\Storing and Updating Teacher Records\ConAppStoreUpdateInTextFile\ConAppStoreUpdateInTextFile\obj\Debug\ConAppStoreUpdateInTextFile.exe
+D:\Mphasis\Live Session\SimpliLearn Projects\Phase 1 Final Project\Storing and Updating Teacher Records\ConAppStoreUpdateInTextFile\ConAppStoreUpdateInTextFile\obj\Debug\ConAppStoreUpdateInTextFile.pdb

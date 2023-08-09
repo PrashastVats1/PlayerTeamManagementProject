@@ -1,0 +1,6 @@
+1, Shruti Panipur, 12 B
+2, Panduram Shastri, 12 D
+3, Manjeet Singh, 12 A
+1, Shruti Panipur, 12 B
+2, Panduram Shastri, 12 D
+3, Manjeet Singh, 12 A
