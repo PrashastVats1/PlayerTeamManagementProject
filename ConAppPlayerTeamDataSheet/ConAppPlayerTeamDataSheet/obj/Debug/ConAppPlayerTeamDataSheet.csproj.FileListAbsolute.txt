@@ -1,0 +1,8 @@
+D:\Mphasis\Live Session\SimpliLearn Projects\Phase 1 Final Project\ConAppPlayerTeamDataSheet\ConAppPlayerTeamDataSheet\bin\Debug\ConAppPlayerTeamDataSheet.exe.config
+D:\Mphasis\Live Session\SimpliLearn Projects\Phase 1 Final Project\ConAppPlayerTeamDataSheet\ConAppPlayerTeamDataSheet\bin\Debug\ConAppPlayerTeamDataSheet.exe
+D:\Mphasis\Live Session\SimpliLearn Projects\Phase 1 Final Project\ConAppPlayerTeamDataSheet\ConAppPlayerTeamDataSheet\bin\Debug\ConAppPlayerTeamDataSheet.pdb
+D:\Mphasis\Live Session\SimpliLearn Projects\Phase 1 Final Project\ConAppPlayerTeamDataSheet\ConAppPlayerTeamDataSheet\obj\Debug\ConAppPlayerTeamDataSheet.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\SimpliLearn Projects\Phase 1 Final Project\ConAppPlayerTeamDataSheet\ConAppPlayerTeamDataSheet\obj\Debug\ConAppPlayerTeamDataSheet.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Live Session\SimpliLearn Projects\Phase 1 Final Project\ConAppPlayerTeamDataSheet\ConAppPlayerTeamDataSheet\obj\Debug\ConAppPlayerTeamDataSheet.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\SimpliLearn Projects\Phase 1 Final Project\ConAppPlayerTeamDataSheet\ConAppPlayerTeamDataSheet\obj\Debug\ConAppPlayerTeamDataSheet.exe
+D:\Mphasis\Live Session\SimpliLearn Projects\Phase 1 Final Project\ConAppPlayerTeamDataSheet\ConAppPlayerTeamDataSheet\obj\Debug\ConAppPlayerTeamDataSheet.pdb
